@@ -1,3 +1,4 @@
 fetch('/.netlify/hallo')
-    .then(resp => alert(resp.text()))
+    .then(resp => resp.text())
+    .then(res => alert(res))
     .catch(err => console.log(err));
