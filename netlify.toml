@@ -1,5 +1,6 @@
 [environment]
 NODE_VERSION = '17.6.0'
+FAUNAPWD = 'fnAEl3u8ziACSRU6KH_YDBRbZ0rliIazJ4jdMj45'
 
 [functions]
 directory = 'netlify/functions'

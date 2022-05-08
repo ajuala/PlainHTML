@@ -1,0 +1,23 @@
+{
+  "name": "hostme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajuala/PlainHTML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajuala/PlainHTML/issues"
+  },
+  "homepage": "https://github.com/ajuala/PlainHTML#readme",
+  "dependencies": {
+    "faunadb": "^4.5.4",
+    "jquery": "^3.6.0"
+  }
+}
