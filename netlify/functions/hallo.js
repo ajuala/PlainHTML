@@ -12,6 +12,6 @@ exports.handler = async (evnt, ctx) => {
 	let resp = await client.query(xpr);
 	return {
 		statusCode: 200,
-		body: JSON.stringify({resp: "Hello from function"}),
+		body: JSON.stringify(resp),
 	};
 }
